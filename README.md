@@ -1,11 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Ola,+meu+nome+é+Ian+Rodrigues+Martins;tenho+20+anos;Estudo+backend+Java;Bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Ola,+meu+nome+é+Ian+Rodrigues+Martins;Estudo+backend+Java;Bem-vindo!+:%29)](https://git.io/typing-svg)
 
 <div> 
   <h2>Quem eu sou </h2>
   <div align="center">
-    <p>Olá, me chamo ian, Estou cursando Sistemas de Informação, meu foco é Backend java no momento, planejo expandir à fullstack, usando tecnologias como Springboot,             Angular, Mysql, e banco não-relacional
+    <p>Olá, me chamo ian, Estou cursando Sistemas de Informação, meu foco é Backend java no momento, planejo expandir à fullstack, usando tecnologias como Springboot, Thymeleaf, JPA, Mysql, e banco não-relacional
     </p>
   </div>
 </div>
